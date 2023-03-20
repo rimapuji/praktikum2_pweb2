@@ -1,8 +1,29 @@
 <h1>PEMOGRAMAAN WEB</h1>
-Rima Puji Lestari (312110517)
 
-Teknik Informatika - UNIVERSITAS PELITA BANGSA 
+Nama : Rima Puji Lestari
+
+NIM : 312110517
+
+Kelas : TI.2021.A3
+
 <hr>
 <h2>PHP DASAR</h2>
 
-![Screenshot (284)](https://user-images.githubusercontent.com/118242692/226265089-0d8d03c3-ff17-4ba5-9611-e312bc66f57f.png)
+<h3>Code :</h3>
+
+    <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <title>PHP Dasar</title>
+      </head>
+      <body>
+          <h1>Belajar PHP Dasar</h1>
+          <?php
+          echo "Hello World";
+          ?>
+      </body>
+      </html>
+
+<h3>Output :</h3>
+![Screenshot (272)](https://user-images.githubusercontent.com/118242692/226268741-925e3c2e-0250-4690-85ee-3662d900fc74.png)
